@@ -247,7 +247,7 @@ The script also tracks unknown UIDs. So:
 - whenever a tag is removed it turns the pad OFF:
 
 
-{% highlight python %}
+```python
 
 #!/usr/bin/python
 
@@ -364,5 +364,5 @@ def main():
 if __name__ == '__main__':
     main()
   
-{% endhighlight %}
+```
 
